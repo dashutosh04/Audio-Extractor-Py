@@ -1,4 +1,4 @@
-from extractor import extract_info , extract_raw_info
+from .extractor import extract_info , extract_raw_info
 
 __license__ = "MIT"
 __author__ = "DARKPOISON04"
